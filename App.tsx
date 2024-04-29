@@ -31,7 +31,7 @@ function App() {
                   color: "white",
                   marginLeft: 10
                 }
-              }>Hi</Text>
+              }>Hii</Text>
             )
           }
         }}/>
